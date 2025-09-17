@@ -9,12 +9,12 @@ This is a complete full-stack project—not just a frontend UI.
 
 ✅ Works on real devices & simulators (Android / iOS)  
 
-🧑‍🍳 App Features Overview
-🔐 Auth — signup & login with JWT, error handling for bad creds
-🏠 Home Feed — newest‑first posts with infinite scrolling
-➕ Create Post — title, rating, cover image & caption (all required)
-👤 Profile Screen — user info + their posts
-🗑️ Delete Post — confirmation alert before removal
-🎨 4 instant themes — just swap one color object
-🌐 Web support — run on localhost in the browser
-🚪 Logout
+- **🔐 Auth** — Signup & login with JWT, error handling for incorrect credentials  
+- **🏠 Home Feed** — Newest-first posts with infinite scrolling  
+- **➕ Create Post** — Add title, rating, cover image & caption (all required)  
+- **👤 Profile Screen** — View user info + their posts  
+- **🗑️ Delete Post** — Confirmation alert before removal  
+- **🎨 Themes** — 4 instant themes; just swap a color object  
+- **🌐 Web support** — Run on localhost in the browser  
+- **🚪 Logout** — Securely sign out  
+
